@@ -1,0 +1,11 @@
+ body {
+    background-color: white;
+     font-family: "verdana", sans-serif; 
+     color: white; 
+     text-transform:  uppercase; 
+}
+
+div {
+            background-image: url(../img/man-1.jpg);
+
+}
